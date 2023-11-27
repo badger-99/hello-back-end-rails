@@ -68,7 +68,7 @@ Use the following URL to clone this project:
 
 
 ### Install
-Open the terminal in the root directory of the project and run the folloeing command to install all dependencies.
+Open the terminal in the root directory of the project and run the following command to install all dependencies.
 
     bundle install
 
