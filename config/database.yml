@@ -19,3 +19,4 @@ production:
   database: greetings
   <<: *default
   url: <%= ENV['DATABASE_URL'] %>
+  
