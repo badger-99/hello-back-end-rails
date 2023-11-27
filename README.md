@@ -70,7 +70,7 @@ Use the following URL to clone this project:
 ### Install
 Open the terminal in the root directory of the project and run the folloeing command to install all dependencies.
 
-    npm i
+    bundle install
 
 
 ### Usage
